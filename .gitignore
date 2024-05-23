@@ -1,0 +1,9 @@
+# Ignorer les fichiers locaux Eclipse
+.project
+.classpath
+
+# Ignorer le dossier target
+target/
+
+# Ignorer le dossier .settings
+.settings/
