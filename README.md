@@ -59,19 +59,3 @@ Le résultat attendu pour ce cas de test est :
 5 1 E         (position finale de la deuxième tondeuse)
 
 Notez que le fichier d'entrée doit être placé dans le dossier "ressources" à la racine du projet.
-## Exemple de cas de test
-
-Voici un exemple de fichier d'entrée pour le simulateur de tondeuses :
-
-5 5           (taille de la pelouse)
-1 2 N        (position initiale de la première tondeuse)
-GAGAGAGAA     (instructions pour la première tondeuse)
-3 3 E         (position initiale de la deuxième tondeuse)
-AADAADADDA   (instructions pour la deuxième tondeuse)
-
-Le résultat attendu pour ce cas de test est :
-
-1 3 N     (position finale de la première tondeuse)
-5 1 E      (position finale de la deuxième tondeuse)
-
-Notez que le fichier d'entrée doit être placé dans le dossier "ressources" à la racine du projet.
